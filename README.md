@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 🤝🏻 **Connect with Me**
 - [![LinkedIn Badge](https://img.shields.io/badge/-Sonal%20Jaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonal-jaiswal/)](https://www.linkedin.com/in/sonal-jaiswal1103/)
-- [![Gmail Badge](https://img.shields.io/badge/-sonaljaiswal@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sonaljaiswal@example.com)](mailto:22051285@kiit.ac.in)
+- [![Gmail Badge](https://img.shields.io/badge/-22051285@kiit.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:22051285@kiit.ac.in)](mailto:22051285@kiit.ac.in)
 
 ---
 
