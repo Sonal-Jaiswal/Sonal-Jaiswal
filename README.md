@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🏆 **Competitive Programming:**
+  ![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leetcode)
+  ![CodeChef](https://img.shields.io/badge/-CodeChef-333333?style=flat&logo=codechef)
 -->
 
 # Welcome Geeks! I'm Sonal Jaiswal
@@ -54,9 +58,6 @@ Here are some ideas to get you started:
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 
-- 🏆 **Competitive Programming:**
-  ![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leetcode)
-  ![CodeChef](https://img.shields.io/badge/-CodeChef-333333?style=flat&logo=codechef)
 
 <br/>
 
