@@ -15,17 +15,9 @@ Here are some ideas to get you started:
 - 🏆 **Competitive Programming:**
   ![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leetcode)
   ![CodeChef](https://img.shields.io/badge/-CodeChef-333333?style=flat&logo=codechef)
--->
 
-# Welcome Geeks! I'm Sonal Jaiswal
 
-👨🏻‍💻 **About Me**
-- 🎓 Pursuing Computer Science and Engineering at KIIT Bhubaneshwar (Batch of 2026).
-- 🧐 Passionate about exploring new technologies and developing software solutions.
-- 💼 Currently working on Full Stack Development.
-- ✍️ Expanding my knowledge in Web Development, Android Development.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
+  <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 **Languages:** 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C)
@@ -60,6 +52,18 @@ Here are some ideas to get you started:
 
 
 <br/>
+  
+-->
+
+# Welcome Geeks! I'm Sonal Jaiswal
+
+👨🏻‍💻 **About Me**
+- 🎓 Pursuing Computer Science and Engineering at KIIT Bhubaneshwar (Batch of 2026).
+- 🧐 Passionate about exploring new technologies and developing software solutions.
+- 💼 Currently working on Full Stack Development.
+- ✍️ Expanding my knowledge in Web Development, Android Development.
+
+
 
 🤝🏻 **Connect with Me**
 - [![LinkedIn Badge](https://img.shields.io/badge/-Sonal%20Jaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonal-jaiswal/)](https://www.linkedin.com/in/sonal-jaiswal1103/)
