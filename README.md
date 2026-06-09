@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 - 🎓 Pursuing Computer Science and Engineering at KIIT Bhubaneshwar (Batch of 2026).
 - 🧐 Passionate about exploring new technologies and developing software solutions.
 - 💼 Currently working on Full Stack Development.
-- ✍️ Expanding my knowledge in Web Development, Android Development.
+- ✍️ Expanding my knowledge in Web Development, Android Development and Artificial Intelligence.
 
 
 
