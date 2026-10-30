@@ -58,7 +58,8 @@ Here are some ideas to get you started:
 # Welcome Geeks! I'm Sonal Jaiswal
 
 👨🏻‍💻 **About Me**
-- 🎓 Pursuing Computer Science and Engineering at KIIT Bhubaneshwar (Batch of 2026).
+- 💼 Software Engineer @Capgemini
+- 🎓 Computer Science and Engineering Graduate (Batch of 2026).
 - 🧐 Passionate about exploring new technologies and developing software solutions.
 - 💼 Currently working on Full Stack Development.
 - ✍️ Expanding my knowledge in Web Development, Android Development and Artificial Intelligence.
